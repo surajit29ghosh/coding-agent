@@ -1,6 +1,6 @@
 ---
 name: testing-review
-description: Deep Roslyn AST analysis of .NET Clean Architecture compliance
+description: Quick test-suite and coverage review
 ---
 
 

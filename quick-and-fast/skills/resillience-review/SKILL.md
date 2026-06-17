@@ -1,6 +1,6 @@
 ---
 name: resillience-review
-description: Deep Roslyn AST analysis of .NET Clean Architecture compliance
+description: Quick resilience and fault-handling review
 ---
 
 

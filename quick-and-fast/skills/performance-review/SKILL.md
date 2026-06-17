@@ -1,6 +1,6 @@
 ---
 name: performance-review
-description: Deep Roslyn AST analysis of .NET Clean Architecture compliance
+description: Quick performance and scalability review
 ---
 
 

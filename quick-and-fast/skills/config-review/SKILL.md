@@ -1,6 +1,6 @@
 ---
 name: config-review
-description: Deep Roslyn AST analysis of .NET Clean Architecture compliance
+description: Quick configuration and secrets review
 ---
 
 
