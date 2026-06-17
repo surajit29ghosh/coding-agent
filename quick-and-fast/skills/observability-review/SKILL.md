@@ -1,6 +1,6 @@
 ---
 name: observability-review
-description: Deep Roslyn AST analysis of .NET Clean Architecture compliance
+description: Quick observability and telemetry review
 ---
 
 # Observability Review (Deep)

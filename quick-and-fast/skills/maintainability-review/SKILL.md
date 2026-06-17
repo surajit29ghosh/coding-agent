@@ -1,6 +1,6 @@
 ---
 name: maintainability-review
-description: Deep Roslyn AST analysis of .NET Clean Architecture compliance
+description: Quick maintainability and code quality review
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 name: api-review
-description: Deep Roslyn AST analysis of .NET Clean Architecture compliance
+description: Quick API design and contract review guidance
 ---
 
 # api-review.md
